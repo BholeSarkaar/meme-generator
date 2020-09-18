@@ -54,7 +54,7 @@ class Meme extends Component {
                                         onChange={this.handleChange} />
                                 </Col>
                                 <Col className="d-flex justify-content-md-center col-sm-12 mt-4">
-                                    <Button >Generate Meme.</Button>
+                                    <Button type="submit">Generate Meme.</Button>
                                 </Col>
                             </Row>
                             <Row>
